@@ -1,0 +1,3 @@
+### Get all products
+GET https://localhost:7143/api/Products
+Accept: application/json
